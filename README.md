@@ -131,3 +131,14 @@ DAX Measures
 Interactive Dashboard
      ↓
 Business Insights & Recommendations
+```
+
+---
+
+# 👩‍💻 Author
+
+Fatima Azhar
+
+Data Analyst | Business Intelligence Enthusiast
+
+Skills: Python | SQL | Power BI | DAX | Pandas | Data Analytics | Business Intelligence
